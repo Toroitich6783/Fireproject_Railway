@@ -1,0 +1,1 @@
+web: gunicorn Fireproject.wsgi --log-file-
